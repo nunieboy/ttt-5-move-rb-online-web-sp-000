@@ -4,5 +4,5 @@ require_relative '../lib/move.rb'
 
 
 puts "Welcome to Tic Tac Toe!"
-board = []
+board = [" "," "," "," "," "," "," "," "," "]
 # Code your CLI Here
